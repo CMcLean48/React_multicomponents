@@ -1,0 +1,26 @@
+body {
+  background: #eee;
+  padding: 0 16px;
+  margin: 0;
+}
+header {
+  background-color: #2b6cae;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.3);
+}
+header h1 {
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-weight: 200;
+}
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+footer p {
+  color: #ccc;
+}
